@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  /* cursor: url("../src/images/cursor.webp"), auto; */
+  padding: 20px;
+  background-color: white; /* or any light color */
+  color: black; /* or any dark color */
+
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.loading {
+  opacity: 0;
+}
+
+.loaded {
+  opacity: 1;
+}
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  /* position: fixed;
+  z-index: 9;
+  background-color: white; */
+}
+.logo {
+  max-height: 82px;
+  width: 295px;
+}
+.logo-text-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding-left: 16px;
+}
+.logo-text-wrapper h2 {
+  font-size: 50px;
+  margin-top: 50px;
+}
+.contact-avocode-header-button {
+  margin-right: 30px;
+  height: 41px;
+  width: 170px;
+  border-radius: 100px;
+  background-color: white;
+  border: 2px solid #b9e804;
+  font-size: 16px;
+  /* cursor: url("../src/images/pointer-cursor.webp"), auto; */
+}
+.contact-avocode-header-button:hover {
+  color: white;
+  background-color: #743af0;
+}
+.wrapper-second-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: -170px;
+}
+.second-button-contact-avocode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  width: 200px;
+  border-radius: 100px;
+  background-color: #743af0;
+  font-weight: 600;
+  color: white;
+  border: 2px solid white;
+  font-size: 16px;
+  /* cursor: url("../src/images/pointer-cursor.webp"), auto; */
+}
+.second-button-contact-avocode:hover {
+  border: 2px solid #b9e804;
+}
+
+.blank-div {
+  height: 41px;
+  width: 170px;
+}
+#expertise-tab-view-image {
+  display: none;
+  padding: 10px;
+  margin-left: 10px;
+}
+#footer-tab-view-image{
+  display: none;
+}
+.footer-tab-veiw-wrapper{
+  display: none;
+padding: 20px;
+}
+button{
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .wrapper-second-button {
+    margin-top: -100px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .logo-text-wrapper h2 {
+    font-size: 40px;
+  }
+  .contact-avocode-header-button,
+  .blank-div {
+    display: none;
+  }
+  .header {
+    justify-content: center;
+  }
+  #expertise-desktop{
+    display: none;
+  }
+  .expertise-wrapper-tab-view{
+    display: flex;
+    /* padding-left: 20px; */
+    justify-content: center;
+    align-items: center;
+  }
+  #expertise-tab-view-image{
+    display: flex;
+    overflow-x: hidden;
+  }
+  #footer-tab-view-image{
+    display: flex;
+/* margin-left: -100px; */
+  }
+  .footer-tab-veiw-wrapper{
+    display: flex;
+  }
+  body {
+    padding: 10px;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .logo-text-wrapper h2 {
+    font-size: 30px;
+    margin-top: 35px;
+  }
+  .logo {
+    max-height: 82px;
+    width: 235px;
+  }
+  .wrapper-second-button {
+    margin-top: 0px;
+  }
+  .second-button-contact-avocode {
+    height: 40px;
+    width: 150px;
+    border-radius: 100px;
+    background-color: #743af0;
+    font-weight: 500;
+    color: #b9e804;
+    border: 2px solid white;
+    font-size: 15px;
+    /* cursor: url("../src/images/pointer-cursor.webp"), auto; */
+  }
+  .header{
+    height: 55px;
+  }
+}
+

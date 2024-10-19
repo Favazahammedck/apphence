@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0edc1e5d.css",
+    "main.js": "/static/js/main.863face0.js",
+    "static/js/787.b541a3f1.chunk.js": "/static/js/787.b541a3f1.chunk.js",
+    "static/media/expertise-tab-view.webp": "/static/media/expertise-tab-view.1ef441ea7c5d6b3af1cb.webp",
+    "static/media/footer.webp": "/static/media/footer.28448dc5d88c6d44943c.webp",
+    "static/media/expertise-section.webp": "/static/media/expertise-section.d361357c057c0aa785cd.webp",
+    "static/media/recent-works.webp": "/static/media/recent-works.b7fac8aea02ad444f56f.webp",
+    "static/media/recent-works-tab-view.webp": "/static/media/recent-works-tab-view.a0b41b9eb384aeb7c816.webp",
+    "static/media/footer-tab-veiw.webp": "/static/media/footer-tab-veiw.5d487f8e7f8e956fccdf.webp",
+    "static/media/projects-completed-section.webp": "/static/media/projects-completed-section.b567e8954eb8ed392690.webp",
+    "static/media/main-avocode.webp": "/static/media/main-avocode.a6b036009fbee1e0b064.webp",
+    "static/media/avocode-logo.webp": "/static/media/avocode-logo.1489b0105e862c107730.webp",
+    "static/media/client3.webp": "/static/media/client3.4d80e2059425b90d9aa6.webp",
+    "static/media/tech3.webp": "/static/media/tech3.ff8cc2ae921f2fc3b452.webp",
+    "static/media/client4.webp": "/static/media/client4.9f0aadc9e917e63de105.webp",
+    "static/media/client2.webp": "/static/media/client2.be17992fd69f28e78f4e.webp",
+    "static/media/tech5.webp": "/static/media/tech5.34f426dd2106f25d3e87.webp",
+    "static/media/client5.webp": "/static/media/client5.738a41a0c822dc3841b5.webp",
+    "static/media/tech2.webp": "/static/media/tech2.b8cd96ecf486f7c21d43.webp",
+    "static/media/tech8.webp": "/static/media/tech8.12198d0573afeb8e1e32.webp",
+    "static/media/tech7.webp": "/static/media/tech7.54e949d464ad7d6e8dc9.webp",
+    "static/media/tech4.webp": "/static/media/tech4.d128731516bb328d431e.webp",
+    "static/media/client1.webp": "/static/media/client1.4334e77e67d6f9f545ce.webp",
+    "static/media/tech1.webp": "/static/media/tech1.5fb8763baee1e20fb099.webp",
+    "static/media/tech9.webp": "/static/media/tech9.aa49fdabdcb8815a53e7.webp",
+    "static/media/tech6.webp": "/static/media/tech6.0372e08c6b6c36153e6d.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0edc1e5d.css.map": "/static/css/main.0edc1e5d.css.map",
+    "main.863face0.js.map": "/static/js/main.863face0.js.map",
+    "787.b541a3f1.chunk.js.map": "/static/js/787.b541a3f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0edc1e5d.css",
+    "static/js/main.863face0.js"
+  ]
+}
